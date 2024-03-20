@@ -35,10 +35,10 @@
         };
 
         combo_adj {
-            timeout-ms = <50>;
-            key-positions = <26 40>;
             bindings = <&mo ADJUST>;
-            layers = <DEFAULT>;
+            key-positions = <48 38>;
+            timeout-ms = <50>;
+            layers = <3>;
         };
     };
 
